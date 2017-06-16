@@ -3,7 +3,7 @@ Ionic 3 linkedin login step by step integration
 
 
 	
-1.Create app on ionic framework dashboard - ionic.io
+1.Create app on ionic framework dashboard - ionic.io<br>
 2.Create app on linkedin console
 	a.Add required fields
 	b.setting->redirect url =https://api.ionic.io/auth/integrations/linkedin
