@@ -5,7 +5,7 @@ Ionic 3 linkedin login step by step integration
 	
 1.Create app on ionic framework dashboard - ionic.io<br>
 2.Create app on linkedin console<br>
-	a.Add required fields<br>
+	\ta.Add required fields<br>
 	b.setting->redirect url =https://api.ionic.io/auth/integrations/linkedin<br>
 	c.set check for r_emailaddresses<br>
 	d.Goto mobile tab enter Package Name(FROM config.xml) and Hash key of machine <br>
